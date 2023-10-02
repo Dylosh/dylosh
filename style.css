@@ -1,0 +1,18 @@
+body {
+  background-image: url('bape.jpg');
+  background-size: ;
+}
+
+.nav-item:hover {
+  background-color: #111;
+  border-radius: 3px;
+}
+
+.spinner-border {
+  color: white;
+}
+
+.kepala {
+  background-color: #111;
+  color: white;
+}
